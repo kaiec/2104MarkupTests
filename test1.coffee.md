@@ -13,4 +13,4 @@ Github Markup Tests
         console.log("Hello #{what}")
 
 
-And now we continue [coolLib.coffee.md](here).
+And now we continue [here](coolLib.coffee.md).
