@@ -14,7 +14,7 @@ Github Markup Tests
 
 
 
-''''
+````
 console.log("Start")
 hello = ->
     console.log("In Hello")
@@ -25,6 +25,6 @@ for i in [1..10]
 world = (what) ->
     console.log("Hello #{what}")
 
-''''
+````
 
 And now we continue [here](coolLib.coffee.md).
