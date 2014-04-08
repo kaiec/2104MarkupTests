@@ -1,7 +1,7 @@
 This is a cool library
 ======================
 
-Remember, we came from here: [test.coffee.md]
+Remember, we came from [here](test.coffee.md).
 
 
 
