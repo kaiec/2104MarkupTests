@@ -11,4 +11,6 @@ Github Markup Tests
 
     world = (what) ->
         console.log("Hello #{what}")
-    
+
+
+And now we continue [coolLib.coffee.md](here).
